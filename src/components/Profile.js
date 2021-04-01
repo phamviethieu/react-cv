@@ -18,7 +18,7 @@ const Profile = ({ executeScroll }) => {
             <h3>
              Pham Viet Hieu
             </h3>
-            <small><i>Hãy để quá khứ ngủ yên và ngày mai sẽ luôn tuyệt vời nhất</i></small>
+            <small><i>No Pain - No Gain</i></small>
           </li>
           <li className="list-group-item">
             <div className="row">
