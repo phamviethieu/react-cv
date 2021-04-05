@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.df49b46b.chunk.css",
-    "main.js": "/CV/static/js/main.b89ceb26.chunk.js",
-    "main.js.map": "/CV/static/js/main.b89ceb26.chunk.js.map",
-    "runtime-main.js": "/CV/static/js/runtime-main.03e1d368.js",
-    "runtime-main.js.map": "/CV/static/js/runtime-main.03e1d368.js.map",
-    "static/css/2.b11e4923.chunk.css": "/CV/static/css/2.b11e4923.chunk.css",
-    "static/js/2.4f1a0851.chunk.js": "/CV/static/js/2.4f1a0851.chunk.js",
-    "static/js/2.4f1a0851.chunk.js.map": "/CV/static/js/2.4f1a0851.chunk.js.map",
-    "static/js/3.7d507fbb.chunk.js": "/CV/static/js/3.7d507fbb.chunk.js",
-    "static/js/3.7d507fbb.chunk.js.map": "/CV/static/js/3.7d507fbb.chunk.js.map",
-    "index.html": "/CV/index.html",
-    "static/css/2.b11e4923.chunk.css.map": "/CV/static/css/2.b11e4923.chunk.css.map",
-    "static/css/main.df49b46b.chunk.css.map": "/CV/static/css/main.df49b46b.chunk.css.map",
-    "static/js/2.4f1a0851.chunk.js.LICENSE.txt": "/CV/static/js/2.4f1a0851.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/CV/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/react-cv/static/css/main.df49b46b.chunk.css",
+    "main.js": "/react-cv/static/js/main.db631f66.chunk.js",
+    "main.js.map": "/react-cv/static/js/main.db631f66.chunk.js.map",
+    "runtime-main.js": "/react-cv/static/js/runtime-main.ef38d3ab.js",
+    "runtime-main.js.map": "/react-cv/static/js/runtime-main.ef38d3ab.js.map",
+    "static/css/2.231bf8f6.chunk.css": "/react-cv/static/css/2.231bf8f6.chunk.css",
+    "static/js/2.4f1a0851.chunk.js": "/react-cv/static/js/2.4f1a0851.chunk.js",
+    "static/js/2.4f1a0851.chunk.js.map": "/react-cv/static/js/2.4f1a0851.chunk.js.map",
+    "static/js/3.7d507fbb.chunk.js": "/react-cv/static/js/3.7d507fbb.chunk.js",
+    "static/js/3.7d507fbb.chunk.js.map": "/react-cv/static/js/3.7d507fbb.chunk.js.map",
+    "index.html": "/react-cv/index.html",
+    "static/css/2.231bf8f6.chunk.css.map": "/react-cv/static/css/2.231bf8f6.chunk.css.map",
+    "static/css/main.df49b46b.chunk.css.map": "/react-cv/static/css/main.df49b46b.chunk.css.map",
+    "static/js/2.4f1a0851.chunk.js.LICENSE.txt": "/react-cv/static/js/2.4f1a0851.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-cv/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.03e1d368.js",
-    "static/css/2.b11e4923.chunk.css",
+    "static/js/runtime-main.ef38d3ab.js",
+    "static/css/2.231bf8f6.chunk.css",
     "static/js/2.4f1a0851.chunk.js",
     "static/css/main.df49b46b.chunk.css",
-    "static/js/main.b89ceb26.chunk.js"
+    "static/js/main.db631f66.chunk.js"
   ]
 }
